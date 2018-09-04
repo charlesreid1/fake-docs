@@ -1,3 +1,3 @@
 # alpha
 
-lorem ipsum sic et dolorum
+lorem ipsum dolor sit amet
