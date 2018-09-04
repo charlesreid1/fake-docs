@@ -1,3 +1,3 @@
 # alpha
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula!
