@@ -1,3 +1,3 @@
 # beta
 
-Lorem ipsum id est dolorum!
+Lorem ipsum sic et dolorum!
